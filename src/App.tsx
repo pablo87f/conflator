@@ -1,8 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { ReactElement } from 'react';
 import './App.css';
 
-function App(): React.ReactNode {
+function App(): ReactElement {
   return <div className="App" />;
 }
 
